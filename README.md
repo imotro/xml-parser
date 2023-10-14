@@ -40,5 +40,5 @@ const output = parser.parse(XML)
 console.log(output) // { element: { attr: 'val', attr2: 'val2' }, value: 'inner value' }
 </script>
 ```
-you can download index.js file above into your project or use [This link]()
+you can download index.js file above into your project or use [This link](https://raw.githubusercontent.com/imotro/xml-parser/main/index.js)
 
